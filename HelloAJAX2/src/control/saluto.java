@@ -28,7 +28,6 @@ public class saluto extends HttpServlet {
 			out.print("Hello" + user);
 		}
 	}
-//ora sono 4 cazzi in culo
 	
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
